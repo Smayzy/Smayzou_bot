@@ -1,10 +1,10 @@
 # Smayzou_bot
 A discord bot made by Smayzy
-/help - Display help message
-/kick - Kick a member
-/ban - ban a member
-/unban - Unban a member
-/nickname - Change your name
+/help - Display help message\N
+/kick - Kick a member\N
+/ban - ban a member\N
+/unban - Unban a member\N
+/nickname - Change your name\N
 /ping - View the ping
 /question - You say question and I say yes or no
 /slowmode - Set slowmode in this channel
