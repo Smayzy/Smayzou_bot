@@ -9,3 +9,5 @@ A discord bot made by Smayzy
 /question - You say question and I say yes or no
 /slowmode - Set slowmode in this channel
 /vote - Create a vote
+To run the bot you need to install discord.py
+py -3 -m pip install -U discord.py
